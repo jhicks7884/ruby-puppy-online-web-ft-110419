@@ -18,4 +18,4 @@ class Dog
       end
     end
   end
-    35  spec/dog_spec.rb 
+  
